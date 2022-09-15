@@ -1,4 +1,4 @@
 # SeizureDetection_CodeSubmission
-File Structure
-  CNN
-  SNN
+File Structure <br />
+  CNN <br />
+  SNN <br />
