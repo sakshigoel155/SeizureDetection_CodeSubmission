@@ -1,0 +1,9 @@
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86200102_0057.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86201102_0106.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86201102_0109.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86201102_0111.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86201102_0112.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86201102_0113.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86201102_0131.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86201102_0135.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_86202/86202102_0015.data

@@ -1,0 +1,5 @@
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_13902/13900102_0002.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_13902/13902102_0060.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_13902/13902102_0089.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_13902/13902102_0094.data
+/media/epi/Volume/data/EPILEPSIAE/inv_selected/pat_13902/13902102_0105.data
